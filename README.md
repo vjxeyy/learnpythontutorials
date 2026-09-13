@@ -38,7 +38,7 @@ It includes the programs I wrote while learning concepts such as:
 learnpythontutorials/
 │
 ├── 1. numbers and comments.py
-├── 2. variables and assignment.py
+├── 2. variables _ assignment.py
 ├── 3. strings and methods.py
 ├── 4. operators and keywords.py
 ├── 5. list [].py
