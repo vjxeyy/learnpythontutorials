@@ -44,17 +44,17 @@ learnpythontutorials/
 ├── 5. list [].py
 ├── 6. tuples ().py
 ├── 7. set {}.py
-├── 8. dictionary   key and values.py
+├── 8. dictionary key and values.py
 ├── 9. IF, ELIF, ELSE CONDITIONS.py
-├── 10. FUNCTIONS  DEF.py
+├── 10. FUNCTIONS DEF.py
 ├── 11. LOOP, RANGE, FOR, BREAK.py
-├── 12. WHILE   _  LAMBADA.py
-├── 13. INPUT   USER DATA.py
-├── 14. SIMPLE   CALCULATOR.py
-├── 15. TASK   FOR YOU.py
+├── 12. WHILE _ LAMBDA.py
+├── 13. INPUT USER DATA.py
+├── 14. SIMPLE CALCULATOR.py
+├── 15. TASK FOR YOU.py
 ├── intro.py
-├── TRANING NEW.py
-├── Traning.py
+├── TRAINING NEW.py
+├── Training.py
 ├── .gitignore
 └── README.md
 ```
