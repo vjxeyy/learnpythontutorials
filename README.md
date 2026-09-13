@@ -1,4 +1,4 @@
-# 🐍 Learn Python Tutorials
+# Learn Python Tutorials
 
 My journey of learning **Python** — my first programming language.
 
@@ -28,7 +28,7 @@ It includes the programs I wrote while learning concepts such as:
 
 ## 💻 Tools I Used
 
-- **Language:** Python 🐍
+- **Language:** Python
 - **IDE:** PyCharm Community Edition 💻
 - **Learning Resource:** Tamil Hacks — YouTube 🎥
 
@@ -69,7 +69,7 @@ Looking back at these programs helps me see how much I've learned and how my cod
 
 ## 🚀 Learning Journey
 
-**7th Grade** → 🎥 **YouTube Tutorials** → 🐍 **Started Python** → 💻 **Practiced Coding** → 🚀 **Continued My Programming Journey**
+**7th Grade** → 🎥 **YouTube Tutorials** → **Started Python** → 💻 **Practiced Coding** → 🚀 **Continued My Programming Journey**
 
 This is where it all started. ❤️
 
