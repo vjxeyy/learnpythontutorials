@@ -37,15 +37,15 @@ It includes the programs I wrote while learning concepts such as:
 ```text
 learnpythontutorials/
 │
-├── 1. numbers and comments.py
-├── 2. variables _ assignment.py
-├── 3. strings and methods.py
-├── 4. operators and keywords.py
-├── 5. list [].py
-├── 6. tuples ().py
-├── 7. set {}.py
-├── 8. dictionary key and values.py
-├── 9. IF, ELIF, ELSE CONDITIONS.py
+├── 01. numbers and comments.py
+├── 02. variables _ assignment.py
+├── 03. strings and methods.py
+├── 04. operators and keywords.py
+├── 05. list [].py
+├── 06. tuples ().py
+├── 07. set {}.py
+├── 08. dictionary key and values.py
+├── 09. IF, ELIF, ELSE CONDITIONS.py
 ├── 10. FUNCTIONS DEF.py
 ├── 11. LOOP, RANGE, FOR, BREAK.py
 ├── 12. WHILE _ LAMBDA.py
